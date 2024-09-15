@@ -3,8 +3,7 @@
  *
  * @author Java Programming with Aldrin
  */
-import com.aldrin.webappjdbc.dao.UserDAO;
-import com.aldrin.webappjdbc.model.User;
+
 import java.io.IOException;
 import java.sql.SQLException;
 import java.util.List;
