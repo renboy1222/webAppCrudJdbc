@@ -4,7 +4,7 @@
  * @author Java Programming with Aldrin
  */
 
-import com.aldrin.webappjdbc.model.User;
+
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
